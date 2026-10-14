@@ -1,0 +1,32 @@
+{
+  "name": "Contador de Contrações · Clínica Talumi",
+  "short_name": "Contrações",
+  "lang": "pt-BR",
+  "description": "Marque o início e o fim de cada contração e veja a duração e o intervalo médios. Clínica Talumi, Campinas.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF8F1",
+  "theme_color": "#FBF8F1",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
